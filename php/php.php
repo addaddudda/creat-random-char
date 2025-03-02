@@ -22,11 +22,5 @@
         }
     }
     echo "<h1>".htmlspecialchars(implode('', $list))."</h1>";
-
-    /*
-    65 ~ 122
-
-    91 ~ 96 제외
-     */
 ?>
 
